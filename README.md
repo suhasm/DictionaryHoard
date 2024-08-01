@@ -1,4 +1,4 @@
-# Lexicon Appendices Collection
+# Nobody's Making the Good Dictionaries Anymore
 
 The philological boom of the 19th and 20th centuries saw the creation of massive lexicons such as *St. Petersburg Dictionary* (Sanskrit), *Thesaurus linguae Latinae*, and *A Dictionary of Pāli* (by the Pali Text Society). Lexicon-making is no longer fashionable, meaning that projects such as *A Comprehensive and Critical Dictionary of The Prakrit Languages* are unlikely to ever finish.
 
